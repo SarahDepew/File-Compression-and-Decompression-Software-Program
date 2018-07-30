@@ -121,11 +121,4 @@ Some hints:
    But it's OK if you use some other structure. You can get 10 bonus, extra-credit points for using a heap,
    though.
 
-Reflections
------------
-
-Include in your submission a `refl.txt`. This file should contain reflections on this assignment (what was
-hard? what wasn't so bad? how much time did it take?) as well as any general reflections you wish to share
-about the course.
-
 
